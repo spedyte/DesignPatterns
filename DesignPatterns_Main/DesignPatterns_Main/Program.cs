@@ -68,11 +68,11 @@ namespace DesignPatterns_Main
         }
 
 
-        public static decimal factoryMethod()
+        public static void factoryMethod()
         {
-            var factoryMethod = new FactoryMethod.FactoryMethod();
+            var factoryMethod = new FactoryMethod.FactoryMethodMain();
             factoryMethod.Run();
-            return 0;
+            Console.ReadLine();
         }
 
         #region Menu_functions

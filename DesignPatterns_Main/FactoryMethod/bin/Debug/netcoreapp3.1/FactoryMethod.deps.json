@@ -6,14 +6,6 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v3.1": {
-      "DesignPatterns_Main/1.0.0": {
-        "dependencies": {
-          "FactoryMethod": "1.0.0"
-        },
-        "runtime": {
-          "DesignPatterns_Main.dll": {}
-        }
-      },
       "FactoryMethod/1.0.0": {
         "runtime": {
           "FactoryMethod.dll": {}
@@ -22,11 +14,6 @@
     }
   },
   "libraries": {
-    "DesignPatterns_Main/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "FactoryMethod/1.0.0": {
       "type": "project",
       "serviceable": false,
