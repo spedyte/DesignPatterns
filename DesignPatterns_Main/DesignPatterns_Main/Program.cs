@@ -7,9 +7,9 @@ namespace DesignPatterns_Main
     {
         #region Properties_Definition
 
-        private static string[] _options = { "Salir","Factory Method","Abstract Factory"};
+        private static string[] _options = { "Salir","Factory Method","Abstract Factory","Singleton"};
 
-        private static Action[] functions = { () => factoryMethod(),() => abstractFactory() };
+        private static Action[] functions = { () => factoryMethod(),() => abstractFactory(), () => Singleton() };
         //, () => insertDL(), () => pancakeSorting(),
         //    ()=> fibonacciIter(),()=>fibonacciRecursivo(),()=> inserMaxHeap(),()=>sortingMaxHeap(),()=>LinkedList(),()=>Bubble(),()=>removeDuplicatedSET(),
         //()=>treeExample()};
@@ -80,6 +80,13 @@ namespace DesignPatterns_Main
         {
             var abstractFactory = new AbstractFactory.AbstractFactoryMain();
             abstractFactory.Run();
+            Console.ReadLine();
+        }
+
+        public static void Singleton()
+        {
+            var singleton = new Singleton.SingletonMain();
+            singleton.Run();
             Console.ReadLine();
         }
         #endregion

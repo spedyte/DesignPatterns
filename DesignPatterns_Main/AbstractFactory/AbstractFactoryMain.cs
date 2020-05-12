@@ -20,7 +20,7 @@ namespace AbstractFactory
 
           ESCENARIO: Una aplicacion que se conecta a REST o a SOAP, cada familia implementa una solucion de forma diferente
 
-          IMPLEMENTACION: La implementacion del patron se llama desde la clase  .....
+          IMPLEMENTACION: La implementacion del patron se llama desde la clase  .....ServiceStackAbstractFactory
          */
         }
 
@@ -28,7 +28,7 @@ namespace AbstractFactory
         {
             //llamamos al Abstract Factory que genera la Factory que a su vez crea la familia de Servicios 
             //es decir clases del tipo de Servicio enviado
-            var tipo = Constantes.Constantes.ServiceType.SOAP;
+            var tipo = Constantes.Constantes.ServiceType.REST_FULL;
             var abstractFactory = ServiceStackAbstractFactory.createServiceFactory(tipo);
 
             //Actualmente el tipo de servicio se pasa al createServiceFactory pero se puede leer ese valor desde

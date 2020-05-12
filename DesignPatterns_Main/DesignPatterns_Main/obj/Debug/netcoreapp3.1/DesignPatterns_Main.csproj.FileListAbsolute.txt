@@ -16,3 +16,17 @@ C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPattern
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\obj\Debug\netcoreapp3.1\DesignPatterns_Main.csproj.CopyComplete
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\AbstractFactory.dll
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\AbstractFactory.pdb
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\Microsoft.Win32.SystemEvents.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\System.Security.Permissions.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\System.Windows.Extensions.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\Resources\configuracion.xml

@@ -1,0 +1,10 @@
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Singleton\bin\Debug\netcoreapp3.1\Singleton.deps.json
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Singleton\bin\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Singleton\obj\Debug\netcoreapp3.1\Singleton.csprojAssemblyReference.cache
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfoInputs.cache
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Singleton\obj\Debug\netcoreapp3.1\Singleton.AssemblyInfo.cs
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Singleton\bin\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Singleton\obj\Debug\netcoreapp3.1\Singleton.csproj.CoreCompileInputs.cache
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Singleton\obj\Debug\netcoreapp3.1\Singleton.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Singleton\obj\Debug\netcoreapp3.1\Singleton.pdb
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Singleton\bin\Debug\netcoreapp3.1\Resources\configuracion.xml

@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <Profile Name="Configuracion"
+         AppVersion="1.0.0"
+         DateFormat="dd/MM/yyyy"
+         CurrencyDate="#0.00"
+             />
+</root>
