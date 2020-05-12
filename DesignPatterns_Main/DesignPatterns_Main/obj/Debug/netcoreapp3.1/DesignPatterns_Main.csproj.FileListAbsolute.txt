@@ -14,3 +14,5 @@ C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPattern
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\FactoryMethod.dll
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\FactoryMethod.pdb
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\obj\Debug\netcoreapp3.1\DesignPatterns_Main.csproj.CopyComplete
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\AbstractFactory.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\AbstractFactory.pdb

@@ -7,9 +7,9 @@ namespace DesignPatterns_Main
     {
         #region Properties_Definition
 
-        private static string[] _options = { "Salir","Factory Method"};
+        private static string[] _options = { "Salir","Factory Method","Abstract Factory"};
 
-        private static Action[] functions = { () => factoryMethod() };
+        private static Action[] functions = { () => factoryMethod(),() => abstractFactory() };
         //, () => insertDL(), () => pancakeSorting(),
         //    ()=> fibonacciIter(),()=>fibonacciRecursivo(),()=> inserMaxHeap(),()=>sortingMaxHeap(),()=>LinkedList(),()=>Bubble(),()=>removeDuplicatedSET(),
         //()=>treeExample()};
@@ -67,6 +67,7 @@ namespace DesignPatterns_Main
             }
         }
 
+        #region Calls_to_Design_Patterns
 
         public static void factoryMethod()
         {
@@ -74,6 +75,16 @@ namespace DesignPatterns_Main
             factoryMethod.Run();
             Console.ReadLine();
         }
+                
+        public static void abstractFactory()
+        {
+            var abstractFactory = new AbstractFactory.AbstractFactoryMain();
+            abstractFactory.Run();
+            Console.ReadLine();
+        }
+        #endregion
+
+
 
         #region Menu_functions
         public static void ShowMenu()
