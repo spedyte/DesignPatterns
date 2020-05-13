@@ -159,6 +159,16 @@
           "bin/placeholder/AbstractFactory.dll": {}
         }
       },
+      "Adapter/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Adapter.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Adapter.dll": {}
+        }
+      },
       "FactoryMethod/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -491,6 +501,11 @@
       "path": "../AbstractFactory/AbstractFactory.csproj",
       "msbuildProject": "../AbstractFactory/AbstractFactory.csproj"
     },
+    "Adapter/1.0.0": {
+      "type": "project",
+      "path": "../Adapter/Adapter.csproj",
+      "msbuildProject": "../Adapter/Adapter.csproj"
+    },
     "FactoryMethod/1.0.0": {
       "type": "project",
       "path": "../FactoryMethod/FactoryMethod.csproj",
@@ -505,6 +520,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AbstractFactory >= 1.0.0",
+      "Adapter >= 1.0.0",
       "FactoryMethod >= 1.0.0",
       "Singleton >= 1.0.0"
     ]
@@ -544,6 +560,9 @@
           "projectReferences": {
             "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\AbstractFactory\\AbstractFactory.csproj": {
               "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\AbstractFactory\\AbstractFactory.csproj"
+            },
+            "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Adapter\\Adapter.csproj": {
+              "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Adapter\\Adapter.csproj"
             },
             "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\FactoryMethod\\FactoryMethod.csproj": {
               "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\FactoryMethod\\FactoryMethod.csproj"

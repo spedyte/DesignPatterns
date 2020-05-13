@@ -30,3 +30,5 @@ C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPattern
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\Singleton.dll
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\Singleton.pdb
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\Resources\configuracion.xml
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\Adapter.pdb

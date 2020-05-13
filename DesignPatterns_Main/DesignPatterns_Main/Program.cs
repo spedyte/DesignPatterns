@@ -7,12 +7,9 @@ namespace DesignPatterns_Main
     {
         #region Properties_Definition
 
-        private static string[] _options = { "Salir","Factory Method","Abstract Factory","Singleton"};
+        private static string[] _options = { "Salir","Factory Method","Abstract Factory","Singleton","Adapter"};
 
-        private static Action[] functions = { () => factoryMethod(),() => abstractFactory(), () => Singleton() };
-        //, () => insertDL(), () => pancakeSorting(),
-        //    ()=> fibonacciIter(),()=>fibonacciRecursivo(),()=> inserMaxHeap(),()=>sortingMaxHeap(),()=>LinkedList(),()=>Bubble(),()=>removeDuplicatedSET(),
-        //()=>treeExample()};
+        private static Action[] functions = { () => factoryMethod(),() => abstractFactory(), () => Singleton() ,()=> Adapter()};
 
 
         private const int DOTS_EDGE = 7;
@@ -87,6 +84,13 @@ namespace DesignPatterns_Main
         {
             var singleton = new Singleton.SingletonMain();
             singleton.Run();
+            Console.ReadLine();
+        }
+
+        public static void Adapter()
+        {
+            var adapter = new Adapter.AdapterMain();
+            adapter.Run();
             Console.ReadLine();
         }
         #endregion
