@@ -1,0 +1,9 @@
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Composite\bin\Debug\netcoreapp3.1\Composite.deps.json
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Composite\bin\Debug\netcoreapp3.1\Composite.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Composite\bin\Debug\netcoreapp3.1\Composite.pdb
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Composite\obj\Debug\netcoreapp3.1\Composite.csprojAssemblyReference.cache
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Composite\obj\Debug\netcoreapp3.1\Composite.csproj.CoreCompileInputs.cache
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfoInputs.cache
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Composite\obj\Debug\netcoreapp3.1\Composite.AssemblyInfo.cs
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Composite\obj\Debug\netcoreapp3.1\Composite.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Composite\obj\Debug\netcoreapp3.1\Composite.pdb

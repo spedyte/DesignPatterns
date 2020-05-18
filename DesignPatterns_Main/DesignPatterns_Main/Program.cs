@@ -7,9 +7,11 @@ namespace DesignPatterns_Main
     {
         #region Properties_Definition
 
-        private static string[] _options = { "Salir","Factory Method","Abstract Factory","Singleton","Adapter"};
+        private static string[] _options = { "Salir","Factory Method","Abstract Factory","Singleton","Adapter",
+                                            "Composite"};
 
-        private static Action[] functions = { () => factoryMethod(),() => abstractFactory(), () => Singleton() ,()=> Adapter()};
+        private static Action[] functions = { () => factoryMethod(),() => abstractFactory(), () => Singleton() ,()=> Adapter(),
+                                            ()=> Composite()};
 
 
         private const int DOTS_EDGE = 7;
@@ -91,6 +93,13 @@ namespace DesignPatterns_Main
         {
             var adapter = new Adapter.AdapterMain();
             adapter.Run();
+            Console.ReadLine();
+        }
+
+        public static void Composite()
+        {
+            var composite = new Composite.CompositeMain();
+            composite.Run();
             Console.ReadLine();
         }
         #endregion

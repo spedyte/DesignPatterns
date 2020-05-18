@@ -21,7 +21,7 @@ namespace Adapter
                     CAda banco tiene sus propias APIs para comunicarse con ellos. El BancoX tiene una interfaz Sincrona
                     y el BancoW tiene una interfaz Asincrona y los tipos de datos en cada API son diferentes
 
-          IMPLEMENTACION: La implementacion del patron se llama desde la clase  ..... 
+          IMPLEMENTACION: La implementacion del patron se llama desde la clase  ..... XBankCreditAdapter y WBankCreditAdapter
          */
         }
 
