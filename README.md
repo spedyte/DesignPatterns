@@ -1,4 +1,4 @@
 # DesignPatterns
 Dentro de DesignPatterns_Main.sln 
-se agregan los llamados  correspondientes de cada patron, cada uno se implemento en aplicaciones de consola,
-para ejecutar y revisar el funcionamiento de cada patrón basta con lanzar este método main.
+se agregan cada una de las aplicacion de consola que corresponde a cada patron implementado en C#, 
+para ejecutar y revisar el funcionamiento de cada patrón basta con lanzar método main del proyecto llamado  DesignPatterns_Main.Program
