@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Singleton", "Singleton\Sing
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Adapter", "Adapter\Adapter.csproj", "{808C65B0-E901-4314-8712-35A826CA9B05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composite", "Composite\Composite.csproj", "{42034834-F618-47C7-A0CF-EEAF4140849C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite", "Composite\Composite.csproj", "{42034834-F618-47C7-A0CF-EEAF4140849C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Proxy", "Proxy\Proxy.csproj", "{90E9093F-0D80-4E8C-881E-1EF25155DB67}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{42034834-F618-47C7-A0CF-EEAF4140849C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{42034834-F618-47C7-A0CF-EEAF4140849C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{42034834-F618-47C7-A0CF-EEAF4140849C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{90E9093F-0D80-4E8C-881E-1EF25155DB67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{90E9093F-0D80-4E8C-881E-1EF25155DB67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{90E9093F-0D80-4E8C-881E-1EF25155DB67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{90E9093F-0D80-4E8C-881E-1EF25155DB67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

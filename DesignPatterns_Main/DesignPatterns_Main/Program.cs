@@ -8,10 +8,10 @@ namespace DesignPatterns_Main
         #region Properties_Definition
 
         private static string[] _options = { "Salir","Factory Method","Abstract Factory","Singleton","Adapter",
-                                            "Composite"};
+                                            "Composite","Proxy"};
 
         private static Action[] functions = { () => factoryMethod(),() => abstractFactory(), () => Singleton() ,()=> Adapter(),
-                                            ()=> Composite()};
+                                            ()=> Composite(),()=>Proxy()};
 
 
         private const int DOTS_EDGE = 7;
@@ -100,6 +100,13 @@ namespace DesignPatterns_Main
         {
             var composite = new Composite.CompositeMain();
             composite.Run();
+            Console.ReadLine();
+        }
+
+        public static void Proxy()
+        {
+            var proxy = new Proxy.ProxyMain();
+            proxy.Run();
             Console.ReadLine();
         }
         #endregion

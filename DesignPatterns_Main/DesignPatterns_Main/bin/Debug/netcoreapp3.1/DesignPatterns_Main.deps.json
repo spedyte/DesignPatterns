@@ -12,6 +12,7 @@
           "Adapter": "1.0.0",
           "Composite": "1.0.0",
           "FactoryMethod": "1.0.0",
+          "Proxy": "1.0.0",
           "Singleton": "1.0.0"
         },
         "runtime": {
@@ -150,6 +151,11 @@
           "FactoryMethod.dll": {}
         }
       },
+      "Proxy/1.0.0": {
+        "runtime": {
+          "Proxy.dll": {}
+        }
+      },
       "Singleton/1.0.0": {
         "dependencies": {
           "System.Configuration.ConfigurationManager": "4.7.0"
@@ -245,6 +251,11 @@
       "sha512": ""
     },
     "FactoryMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Proxy/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

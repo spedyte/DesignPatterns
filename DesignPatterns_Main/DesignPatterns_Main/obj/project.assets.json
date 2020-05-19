@@ -189,6 +189,16 @@
           "bin/placeholder/FactoryMethod.dll": {}
         }
       },
+      "Proxy/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Proxy.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Proxy.dll": {}
+        }
+      },
       "Singleton/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -526,6 +536,11 @@
       "path": "../FactoryMethod/FactoryMethod.csproj",
       "msbuildProject": "../FactoryMethod/FactoryMethod.csproj"
     },
+    "Proxy/1.0.0": {
+      "type": "project",
+      "path": "../Proxy/Proxy.csproj",
+      "msbuildProject": "../Proxy/Proxy.csproj"
+    },
     "Singleton/1.0.0": {
       "type": "project",
       "path": "../Singleton/Singleton.csproj",
@@ -538,6 +553,7 @@
       "Adapter >= 1.0.0",
       "Composite >= 1.0.0",
       "FactoryMethod >= 1.0.0",
+      "Proxy >= 1.0.0",
       "Singleton >= 1.0.0"
     ]
   },
@@ -585,6 +601,9 @@
             },
             "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\FactoryMethod\\FactoryMethod.csproj": {
               "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\FactoryMethod\\FactoryMethod.csproj"
+            },
+            "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Proxy\\Proxy.csproj": {
+              "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Proxy\\Proxy.csproj"
             },
             "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Singleton\\Singleton.csproj": {
               "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Singleton\\Singleton.csproj"
