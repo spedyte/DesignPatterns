@@ -24,7 +24,7 @@ namespace Proxy
                     El cliente no sabe si es necesario ejecutar acciones previas o posteriores a la ejecucion de los procesos
                     pero requiere que el sistema este preparado para ello en un futuro .
 
-          IMPLEMENTACION: La implementacion del patron se llama desde la clase ... 
+          IMPLEMENTACION: La implementacion del patron se llama desde la clase ... ProcessExecutorProxy
                             El Proxy SIEMPRE debe ser creado con un FACTORY para asegurarnos que el cliente siempre
                             recibira un objeto proxy y no un objeto real
          */

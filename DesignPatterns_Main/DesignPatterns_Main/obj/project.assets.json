@@ -179,6 +179,16 @@
           "bin/placeholder/Composite.dll": {}
         }
       },
+      "Facade/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Facade.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Facade.dll": {}
+        }
+      },
       "FactoryMethod/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -531,6 +541,11 @@
       "path": "../Composite/Composite.csproj",
       "msbuildProject": "../Composite/Composite.csproj"
     },
+    "Facade/1.0.0": {
+      "type": "project",
+      "path": "../Facade/Facade.csproj",
+      "msbuildProject": "../Facade/Facade.csproj"
+    },
     "FactoryMethod/1.0.0": {
       "type": "project",
       "path": "../FactoryMethod/FactoryMethod.csproj",
@@ -552,6 +567,7 @@
       "AbstractFactory >= 1.0.0",
       "Adapter >= 1.0.0",
       "Composite >= 1.0.0",
+      "Facade >= 1.0.0",
       "FactoryMethod >= 1.0.0",
       "Proxy >= 1.0.0",
       "Singleton >= 1.0.0"
@@ -598,6 +614,9 @@
             },
             "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Composite\\Composite.csproj": {
               "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Composite\\Composite.csproj"
+            },
+            "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Facade\\Facade.csproj": {
+              "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Facade\\Facade.csproj"
             },
             "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\FactoryMethod\\FactoryMethod.csproj": {
               "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\FactoryMethod\\FactoryMethod.csproj"

@@ -11,6 +11,7 @@
           "AbstractFactory": "1.0.0",
           "Adapter": "1.0.0",
           "Composite": "1.0.0",
+          "Facade": "1.0.0",
           "FactoryMethod": "1.0.0",
           "Proxy": "1.0.0",
           "Singleton": "1.0.0"
@@ -146,6 +147,11 @@
           "Composite.dll": {}
         }
       },
+      "Facade/1.0.0": {
+        "runtime": {
+          "Facade.dll": {}
+        }
+      },
       "FactoryMethod/1.0.0": {
         "runtime": {
           "FactoryMethod.dll": {}
@@ -246,6 +252,11 @@
       "sha512": ""
     },
     "Composite/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Facade/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
