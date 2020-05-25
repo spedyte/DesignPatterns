@@ -169,6 +169,16 @@
           "bin/placeholder/Adapter.dll": {}
         }
       },
+      "Command/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Command.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Command.dll": {}
+        }
+      },
       "Composite/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -536,6 +546,11 @@
       "path": "../Adapter/Adapter.csproj",
       "msbuildProject": "../Adapter/Adapter.csproj"
     },
+    "Command/1.0.0": {
+      "type": "project",
+      "path": "../Command/Command.csproj",
+      "msbuildProject": "../Command/Command.csproj"
+    },
     "Composite/1.0.0": {
       "type": "project",
       "path": "../Composite/Composite.csproj",
@@ -566,6 +581,7 @@
     ".NETCoreApp,Version=v3.1": [
       "AbstractFactory >= 1.0.0",
       "Adapter >= 1.0.0",
+      "Command >= 1.0.0",
       "Composite >= 1.0.0",
       "Facade >= 1.0.0",
       "FactoryMethod >= 1.0.0",
@@ -611,6 +627,9 @@
             },
             "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Adapter\\Adapter.csproj": {
               "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Adapter\\Adapter.csproj"
+            },
+            "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Command\\Command.csproj": {
+              "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Command\\Command.csproj"
             },
             "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Composite\\Composite.csproj": {
               "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Composite\\Composite.csproj"

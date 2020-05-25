@@ -17,7 +17,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Composite", "Composite\Comp
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Proxy", "Proxy\Proxy.csproj", "{90E9093F-0D80-4E8C-881E-1EF25155DB67}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facade", "Facade\Facade.csproj", "{534F3A22-AD28-4183-A521-4DBCC47A6C40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Facade", "Facade\Facade.csproj", "{534F3A22-AD28-4183-A521-4DBCC47A6C40}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Command", "Command\Command.csproj", "{3A413E60-0166-4F8F-8745-43C2076147E6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -57,6 +59,10 @@ Global
 		{534F3A22-AD28-4183-A521-4DBCC47A6C40}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{534F3A22-AD28-4183-A521-4DBCC47A6C40}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{534F3A22-AD28-4183-A521-4DBCC47A6C40}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A413E60-0166-4F8F-8745-43C2076147E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A413E60-0166-4F8F-8745-43C2076147E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A413E60-0166-4F8F-8745-43C2076147E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A413E60-0166-4F8F-8745-43C2076147E6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

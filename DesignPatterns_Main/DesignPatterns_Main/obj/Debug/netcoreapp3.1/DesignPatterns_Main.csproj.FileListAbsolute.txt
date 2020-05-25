@@ -38,3 +38,5 @@ C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPattern
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\Proxy.pdb
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\Facade.dll
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\Facade.pdb
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\Command.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\DesignPatterns_Main\bin\Debug\netcoreapp3.1\Command.pdb
