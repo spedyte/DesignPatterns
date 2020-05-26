@@ -14,6 +14,7 @@
           "Composite": "1.0.0",
           "Facade": "1.0.0",
           "FactoryMethod": "1.0.0",
+          "Observer": "1.0.0",
           "Proxy": "1.0.0",
           "Singleton": "1.0.0"
         },
@@ -163,6 +164,11 @@
           "FactoryMethod.dll": {}
         }
       },
+      "Observer/1.0.0": {
+        "runtime": {
+          "Observer.dll": {}
+        }
+      },
       "Proxy/1.0.0": {
         "runtime": {
           "Proxy.dll": {}
@@ -273,6 +279,11 @@
       "sha512": ""
     },
     "FactoryMethod/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Observer/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
