@@ -8,10 +8,12 @@ namespace DesignPatterns_Main
         #region Properties_Definition
 
         private static string[] _options = { "Salir","Factory Method","Abstract Factory","Singleton","Adapter",
-                                            "Composite","Proxy","Facade","Command","Observer"};
+                                            "Composite","Proxy","Facade","Command","Observer","Strategy",
+                                            "Builder"};
 
         private static Action[] functions = { () => factoryMethod(),() => abstractFactory(), () => Singleton() ,()=> Adapter(),
-                                            ()=> Composite(),()=>Proxy(),()=>Facade(),()=>Command(),()=>Observer()};
+                                            ()=> Composite(),()=>Proxy(),()=>Facade(),()=>Command(),()=>Observer(),
+                                            ()=>Strategy(),()=>Builder()};
 
 
         private const int DOTS_EDGE = 7;
@@ -128,6 +130,20 @@ namespace DesignPatterns_Main
         {
             var observer = new Observer.ObserverMain();
             observer.Run();
+            Console.ReadLine();
+        }
+
+        public static void Strategy()
+        {
+            var strategy = new Strategy.StrategyMain();
+            strategy.Run();
+            Console.ReadLine();
+        }
+
+        public static void Builder()
+        {
+            var builder = new Builder.BuilderMain();
+            builder.Run();
             Console.ReadLine();
         }
         #endregion

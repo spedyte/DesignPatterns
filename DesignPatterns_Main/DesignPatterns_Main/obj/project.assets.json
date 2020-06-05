@@ -169,6 +169,16 @@
           "bin/placeholder/Adapter.dll": {}
         }
       },
+      "Builder/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Builder.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Builder.dll": {}
+        }
+      },
       "Command/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
@@ -240,6 +250,16 @@
         },
         "runtime": {
           "bin/placeholder/Singleton.dll": {}
+        }
+      },
+      "Strategy/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/Strategy.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Strategy.dll": {}
         }
       }
     }
@@ -556,6 +576,11 @@
       "path": "../Adapter/Adapter.csproj",
       "msbuildProject": "../Adapter/Adapter.csproj"
     },
+    "Builder/1.0.0": {
+      "type": "project",
+      "path": "../Builder/Builder.csproj",
+      "msbuildProject": "../Builder/Builder.csproj"
+    },
     "Command/1.0.0": {
       "type": "project",
       "path": "../Command/Command.csproj",
@@ -590,19 +615,26 @@
       "type": "project",
       "path": "../Singleton/Singleton.csproj",
       "msbuildProject": "../Singleton/Singleton.csproj"
+    },
+    "Strategy/1.0.0": {
+      "type": "project",
+      "path": "../Strategy/Strategy.csproj",
+      "msbuildProject": "../Strategy/Strategy.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "AbstractFactory >= 1.0.0",
       "Adapter >= 1.0.0",
+      "Builder >= 1.0.0",
       "Command >= 1.0.0",
       "Composite >= 1.0.0",
       "Facade >= 1.0.0",
       "FactoryMethod >= 1.0.0",
       "Observer >= 1.0.0",
       "Proxy >= 1.0.0",
-      "Singleton >= 1.0.0"
+      "Singleton >= 1.0.0",
+      "Strategy >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -644,6 +676,9 @@
             "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Adapter\\Adapter.csproj": {
               "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Adapter\\Adapter.csproj"
             },
+            "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Builder\\Builder.csproj": {
+              "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Builder\\Builder.csproj"
+            },
             "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Command\\Command.csproj": {
               "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Command\\Command.csproj"
             },
@@ -664,6 +699,9 @@
             },
             "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Singleton\\Singleton.csproj": {
               "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Singleton\\Singleton.csproj"
+            },
+            "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Strategy\\Strategy.csproj": {
+              "projectPath": "C:\\Users\\arman\\source\\repos\\DesignPatterns2020\\DesignPatterns_Main\\Strategy\\Strategy.csproj"
             }
           }
         }

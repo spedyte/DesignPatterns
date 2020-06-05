@@ -1,0 +1,9 @@
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Builder\bin\Debug\netcoreapp3.1\Builder.deps.json
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Builder\bin\Debug\netcoreapp3.1\Builder.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Builder\bin\Debug\netcoreapp3.1\Builder.pdb
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Builder\obj\Debug\netcoreapp3.1\Builder.csprojAssemblyReference.cache
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Builder\obj\Debug\netcoreapp3.1\Builder.csproj.CoreCompileInputs.cache
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfoInputs.cache
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Builder\obj\Debug\netcoreapp3.1\Builder.AssemblyInfo.cs
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Builder\obj\Debug\netcoreapp3.1\Builder.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Builder\obj\Debug\netcoreapp3.1\Builder.pdb

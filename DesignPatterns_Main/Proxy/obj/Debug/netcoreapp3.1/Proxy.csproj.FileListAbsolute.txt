@@ -1,9 +1,9 @@
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Proxy\bin\Debug\netcoreapp3.1\Proxy.deps.json
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Proxy\bin\Debug\netcoreapp3.1\Proxy.dll
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Proxy\bin\Debug\netcoreapp3.1\Proxy.pdb
-C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Proxy\obj\Debug\netcoreapp3.1\Proxy.csprojAssemblyReference.cache
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Proxy\obj\Debug\netcoreapp3.1\Proxy.csproj.CoreCompileInputs.cache
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfoInputs.cache
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Proxy\obj\Debug\netcoreapp3.1\Proxy.AssemblyInfo.cs
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Proxy\obj\Debug\netcoreapp3.1\Proxy.dll
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Proxy\obj\Debug\netcoreapp3.1\Proxy.pdb
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Proxy\obj\Debug\netcoreapp3.1\Proxy.csprojAssemblyReference.cache

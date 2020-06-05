@@ -1,8 +1,9 @@
-C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache
-C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
-C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Facade\bin\Debug\netcoreapp3.1\Facade.deps.json
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Facade\bin\Debug\netcoreapp3.1\Facade.dll
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Facade\bin\Debug\netcoreapp3.1\Facade.pdb
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Facade\obj\Debug\netcoreapp3.1\Facade.csprojAssemblyReference.cache
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Facade\obj\Debug\netcoreapp3.1\Facade.csproj.CoreCompileInputs.cache
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfoInputs.cache
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Facade\obj\Debug\netcoreapp3.1\Facade.AssemblyInfo.cs
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Facade\obj\Debug\netcoreapp3.1\Facade.dll
 C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Facade\obj\Debug\netcoreapp3.1\Facade.pdb

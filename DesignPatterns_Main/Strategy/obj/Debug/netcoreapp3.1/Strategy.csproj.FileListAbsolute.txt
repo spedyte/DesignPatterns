@@ -1,0 +1,10 @@
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Strategy\bin\Debug\netcoreapp3.1\util\Usersfile.xml
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Strategy\bin\Debug\netcoreapp3.1\Strategy.deps.json
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Strategy\bin\Debug\netcoreapp3.1\Strategy.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Strategy\bin\Debug\netcoreapp3.1\Strategy.pdb
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Strategy\obj\Debug\netcoreapp3.1\Strategy.csproj.CoreCompileInputs.cache
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfoInputs.cache
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Strategy\obj\Debug\netcoreapp3.1\Strategy.AssemblyInfo.cs
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Strategy\obj\Debug\netcoreapp3.1\Strategy.dll
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Strategy\obj\Debug\netcoreapp3.1\Strategy.pdb
+C:\Users\arman\source\repos\DesignPatterns2020\DesignPatterns_Main\Strategy\obj\Debug\netcoreapp3.1\Strategy.csprojAssemblyReference.cache

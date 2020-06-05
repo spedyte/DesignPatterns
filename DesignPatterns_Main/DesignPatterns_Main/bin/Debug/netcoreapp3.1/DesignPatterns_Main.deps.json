@@ -10,13 +10,15 @@
         "dependencies": {
           "AbstractFactory": "1.0.0",
           "Adapter": "1.0.0",
+          "Builder": "1.0.0",
           "Command": "1.0.0",
           "Composite": "1.0.0",
           "Facade": "1.0.0",
           "FactoryMethod": "1.0.0",
           "Observer": "1.0.0",
           "Proxy": "1.0.0",
-          "Singleton": "1.0.0"
+          "Singleton": "1.0.0",
+          "Strategy": "1.0.0"
         },
         "runtime": {
           "DesignPatterns_Main.dll": {}
@@ -144,6 +146,11 @@
           "Adapter.dll": {}
         }
       },
+      "Builder/1.0.0": {
+        "runtime": {
+          "Builder.dll": {}
+        }
+      },
       "Command/1.0.0": {
         "runtime": {
           "Command.dll": {}
@@ -180,6 +187,11 @@
         },
         "runtime": {
           "Singleton.dll": {}
+        }
+      },
+      "Strategy/1.0.0": {
+        "runtime": {
+          "Strategy.dll": {}
         }
       }
     }
@@ -263,6 +275,11 @@
       "serviceable": false,
       "sha512": ""
     },
+    "Builder/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
     "Command/1.0.0": {
       "type": "project",
       "serviceable": false,
@@ -294,6 +311,11 @@
       "sha512": ""
     },
     "Singleton/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Strategy/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

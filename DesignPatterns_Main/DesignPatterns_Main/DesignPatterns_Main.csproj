@@ -8,6 +8,7 @@
   <ItemGroup>
     <ProjectReference Include="..\AbstractFactory\AbstractFactory.csproj" />
     <ProjectReference Include="..\Adapter\Adapter.csproj" />
+    <ProjectReference Include="..\Builder\Builder.csproj" />
     <ProjectReference Include="..\Command\Command.csproj" />
     <ProjectReference Include="..\Composite\Composite.csproj" />
     <ProjectReference Include="..\Facade\Facade.csproj" />
@@ -15,6 +16,7 @@
     <ProjectReference Include="..\Observer\Observer.csproj" />
     <ProjectReference Include="..\Proxy\Proxy.csproj" />
     <ProjectReference Include="..\Singleton\Singleton.csproj" />
+    <ProjectReference Include="..\Strategy\Strategy.csproj" />
   </ItemGroup>
 
 </Project>
